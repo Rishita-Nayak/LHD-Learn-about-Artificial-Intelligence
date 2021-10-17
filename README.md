@@ -15,6 +15,14 @@ It is the science and engineering of making intelligent machines, especially int
 
 
 ## <br /> [6 Major Branches of Artificial Intelligence (AI) ?](https://www.analyticssteps.com/blogs/6-major-branches-artificial-intelligence-ai)
+<ul>
+  <li>Machine Learning</li>
+  <li>Neural Network</li>
+  <li>Robotics</li>
+  <li>Expert Systems</li>
+  <li>Fuzzy Logic</li>
+  <li>Natural Language Processing</li>
+</ul>
 
 ## <br /> [7 Types Of Artificial Intelligence](https://www.forbes.com/sites/cognitiveworld/2019/06/19/7-types-of-artificial-intelligence/?sh=52627d7b233e)
 <br />![ai-v2-img3](https://user-images.githubusercontent.com/86939391/137625419-9955f23d-4eaf-4d1b-9488-5475ce19ea04.jpg)
