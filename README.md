@@ -8,4 +8,20 @@ It is the science and engineering of making intelligent machines, especially int
 
 ## Blogs from where we learnt about Artificial Intelligence
 ## <br /> [What is Artificial Intelligence ?](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+<br />![OIP](https://user-images.githubusercontent.com/86939391/137625734-9ce677ae-a232-4267-bdd9-a72a303cec91.jpg)
+
+## <br /> [How does AI work, Types and Future of it?](https://www.mygreatlearning.com/blog/what-is-artificial-intelligence/)
+<br /> ![OIP (1)](https://user-images.githubusercontent.com/86939391/137625864-77b8e184-5795-4aed-934c-4adda16bde5c.jpg)
+
+
+## <br /> [6 Major Branches of Artificial Intelligence (AI) ?](https://www.analyticssteps.com/blogs/6-major-branches-artificial-intelligence-ai)
+
+## <br /> [7 Types Of Artificial Intelligence](https://www.forbes.com/sites/cognitiveworld/2019/06/19/7-types-of-artificial-intelligence/?sh=52627d7b233e)
 <br />![ai-v2-img3](https://user-images.githubusercontent.com/86939391/137625419-9955f23d-4eaf-4d1b-9488-5475ce19ea04.jpg)
+
+## <br /> [Skills required ](https://tavvy.com/article/artificial-intelligence-expert-5-skills-you-will-need/)
+<br /> ![Pros-and-Cons-of-Artificial-Intelligence](https://user-images.githubusercontent.com/86939391/137625950-6b9ae66b-8dfa-4666-9de6-2d26d96347a2.jpg)
+
+## <br /> [Artificial Intelligence Projects](https://nevonprojects.com/artificial-intelligence-projects/)
+
+
